@@ -1,0 +1,16 @@
+{
+  "name": "migrate-account-without-enforcement",
+  "version": "1.0.0",
+  "description": "Script for support team for migrate accounts without enforcement",
+  "main": "index.js",
+  "repository": "git@github.com:ziv-codefresh/migrate-account-without-enforcement.git",
+  "author": "ziv-codefresh <ziv@codefresh.io>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cf-logs": "^1.1.23",
+    "lodash": "^4.17.20",
+    "mongodb": "^3.6.3"
+  }
+}
